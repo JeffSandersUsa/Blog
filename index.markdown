@@ -6,7 +6,7 @@ layout: home
 bgimage: Outerbanks2020.jpg
 ---
 
- <link rel="icon" type="image/png" sizes="32x32" href="images/favico.ico">
+ <link rel="icon" type="/Blog/images/png" sizes="32x32" href="images/favico.ico">
 
 
 ![Alt text](images/Outerbanks2022.jpg "a title")
